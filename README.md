@@ -1,2 +1,2 @@
-#Kodluyoruz kapsamında yaptığım 2. projem.
-## Html kullanarak site iskeleti oluşturmanın ilk denemesi olarak yapılmış bir projedir.
+# Kodluyor kapsamında yaptığım 2. projem
+## Html kullanarak başlık, paragraf, ve listelerin basit iskeletinin hazırlanması.
